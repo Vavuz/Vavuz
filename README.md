@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vavuz
 - 👀 I’m interested in making money
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me ...
 
